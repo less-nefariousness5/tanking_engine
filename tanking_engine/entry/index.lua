@@ -1,0 +1,6 @@
+require("entry/entry_helper")
+require("entry/check_spec")
+require("entry/init")
+require("entry/load_required_modules")
+require("entry/load_spec_module")
+require("entry/callbacks/index")
